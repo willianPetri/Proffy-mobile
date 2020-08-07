@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
 
   contactButtonText: {
     color: '#FFF',
-    fontFamily: 'Archivo_7--Bold',
+    fontFamily: 'Archivo_700Bold',
     fontSize: 16,
     marginLeft: 16,
   },
